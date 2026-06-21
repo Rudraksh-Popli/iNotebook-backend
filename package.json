@@ -1,0 +1,24 @@
+{
+    "name": "inotebook-backend",
+    "version": "1.0.0",
+    "description": "iNotebook - Your Notebook on the Cloud",
+    "homepage": "https://github.com/Rudraksh-Popli/iNotebook-backend#readme",
+    "bugs": {
+        "url": "https://github.com/Rudraksh-Popli/iNotebook-backend/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rudraksh-Popli/iNotebook-backend.git"
+    },
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "mongoose": "^9.7.1"
+    }
+}
